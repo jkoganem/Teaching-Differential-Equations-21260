@@ -1,1 +1,1 @@
-# Teaching-Differential-Equations-21260
+# 21-260 Differential Equations
