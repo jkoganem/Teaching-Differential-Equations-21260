@@ -12,13 +12,18 @@ Email: [jkoganem@andrew.cmu.edu](jkoganem@andrew.cmu.edu)
 > **Note for students:** please include the header “21-260” in the subject line of your email when you email me, otherwise your email might get lost in the shuffle.
 
 ## Table of Contents
-1. [About the Course](#about-the-course)  
-2. [Repo Structure](#repo-structure)  
-3. [How to Use These Materials](#how-to-use-these-materials)  
-4. [Installation & Setup](#installation--setup)  
-5. [License](#license)  
-6. [Contributing](#contributing)  
-7. [Contact](#contact)  
+1. [About the Coruse](#1-about-the-course)
+2. [Repo Structure](#2-repo-structure)  
+3. [How to Use These Materials](#3-how-to-use-these-materials)  
+4. [Installation & Setup](#4-installation--setup)  
+   - [Git: Cloning the Repository](#41-git-cloning-the-repository)  
+   - [Local Environment for running Jupyter Notebooks (VS Code + Anaconda + Jupyter)](#42-local-environment-for-running-jupyter-notebooks-vs-code--anaconda--jupyter)  
+   - [Google Colab: Cloud-based environment for Jupyter Notebooks](#43-google-colab-cloud-based-environment-for-jupyter-notebooks)  
+   - [Troubleshooting](#44-troubleshooting)  
+   - [Additional Resources](#45-additional-resources)  
+5. [License](#5-license)  
+6. [Contact](#6-contact)  
+
 ---
 
 ## 1. About the Course
