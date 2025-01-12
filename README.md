@@ -36,9 +36,10 @@ In this course we explore the theory, methods, and applications of ordinary and 
 
 ## 2. Repo Structure
 
-- **code/**: Folder containing scripts demonstrating concepts and numerical methods.  
-- **notes/**: Folder for lecture notes. 
+- **code/**: Folder containing scripts demonstrating concepts and numerical methods. 
 - **homework/**: Folder for homework problems and solutions.
+- **notes/**: Folder for lecture and recitation notes. 
+- **practice problems/**: Folder for review/practice problems. 
 
 ---
 
