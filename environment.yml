@@ -1,0 +1,14 @@
+name: diffeq-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyter
+  - numpy
+  - scipy
+  - sympy
+  - matplotlib
+  - pip
+  - pip:
+    - seaborn
