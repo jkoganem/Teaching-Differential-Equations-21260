@@ -1,6 +1,6 @@
 # 21-260 Differential Equations
 
-Welcome to the **21-260 Differential Equations** repository. This is a collection of lecture notes, example code, and other resources for students enrolled in the 21-260 Differential Equations at Carnegie Mellon University (or for anyone interested in learning about differential equations).
+Welcome to the **21-260 Differential Equations** repository. This is a collection of lecture notes, code, and other resources for students enrolled in the 21-260 Differential Equations at Carnegie Mellon University (or for anyone interested in learning about differential equations).
 
 For students enrolled in the course, please access additional resources (such as Gradescope for homework submissions and Piazza for Q&A) through [Canvas](https://canvas.cmu.edu/courses/45779).
 
