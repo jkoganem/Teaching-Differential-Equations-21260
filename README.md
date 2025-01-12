@@ -86,7 +86,7 @@ In this course we explore the theory, methods, and applications of ordinary and 
    - Use the provided `environment.yml` file and create a new virtual environment:
      ```bash
      # Using environment.yml:
-     conda env create -f environment.yml
+     conda env create -f environment.yml -n my-env-name
      conda activate my-env-name 
      ```
 4. **Open Jupyter Notebooks in VS Code**  
