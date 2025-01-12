@@ -32,8 +32,6 @@ In this course we explore the theory, methods, and applications of ordinary and 
 - Numerical methods  
 - Linear partial differential equations (Laplace, heat, wave)
 
-The course aims to provide a solid theoretical foundation while highlighting practical problem-solving strategies.
-
 ---
 
 ## 2. Repo Structure
@@ -73,7 +71,7 @@ The course aims to provide a solid theoretical foundation while highlighting pra
    - Open GitHub Desktop and sign in with your GitHub account.  
    - Click **File** > **Clone repository**, select your repository, and choose a local path to clone into.
 
-### 4.2. Local Environment (VS Code + Anaconda + Jupyter)
+### 4.2. Local Environment for running Jupyter Notebooks (VS Code + Anaconda + Jupyter): 
 
 1. **Install VS Code**  
    - [Download Visual Studio Code](https://code.visualstudio.com/download) (available for Windows, macOS, and Linux).  
@@ -99,7 +97,7 @@ The course aims to provide a solid theoretical foundation while highlighting pra
 
 ---
 
-### 4.3. Cloud: Google Colab
+### 4.3. Google Colab: Cloud-based environment for Jupyter Notebooks
 
 If you prefer a **cloud-based** environment (no local installs):
 
