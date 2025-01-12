@@ -55,7 +55,9 @@ In this course we explore the theory, methods, and applications of ordinary and 
 
 ## 4. Installation & Setup
 
-> **Note:** If you just want to read .pdf files, you can simply download or open them directly in your browser (GitHub’s PDF viewer or your preferred PDF reader). 
+> **Note:** If you just want to read the files (`.pdf` or `.ipynb`), you can simply  open them directly in your browser. 
+
+The following steps guide you through setting up a local environment to run the Jupyter Notebooks and other code examples. Cloning the repository also ensures that you can easily update the local files as needed.
 
 ### 4.1. Git: Cloning the Repository
 
@@ -113,6 +115,39 @@ If you prefer a **cloud-based** environment (no local installs):
 ---
 
 *For quick demos, Google Colab is convenient; for full development, a local VS Code + conda environment is often more robust.*  
+
+### 4.4. Troubleshooting
+
+If you encounter any issues during the setup process, consider the following tips:
+
+1. **Environment Issues**:
+    - Ensure that the correct conda environment is activated.
+    - Check for any missing dependencies and install them using `conda` or `pip`.
+
+2. **Jupyter Notebook Issues**:
+    - If Jupyter notebooks are not opening in VS Code, ensure the Jupyter extension is installed and enabled.
+    - Restart VS Code and try reopening the notebook.
+
+3. **Git Issues**:
+    - If you face issues with cloning the repository, check your internet connection and Git installation.
+    - Ensure you have the correct permissions to access the repository.
+
+For further assistance, feel free to open a [GitHub issue](../../issues) or contact the instructor.
+
+---
+
+### 4.5. Additional Resources
+
+For more information on the tools and technologies used in this course, refer to the following resources:
+
+- [Python Documentation](https://docs.python.org/3/)
+- [Git Documentation](https://git-scm.com/doc)
+- [Anaconda Documentation](https://docs.anaconda.com/)
+- [VS Code Documentation](https://code.visualstudio.com/docs)
+- [Jupyter Documentation](https://jupyter.org/documentation)
+
+These resources provide comprehensive guides and tutorials to help you get the most out of the tools used in this course.
+
 
 ## 5. License
 
