@@ -79,7 +79,7 @@ The following steps guide you through setting up a local environment to run the 
    - Open GitHub Desktop and sign in with your GitHub account.  
    - Click **File** > **Clone repository**, select your repository, and choose a local path to clone into.
 
-### 4.2. Local Environment for running Jupyter Notebooks (VS Code + Anaconda + Jupyter): 
+### 4.2. Local Environment for Running Jupyter Notebooks (VS Code + Anaconda + Jupyter): 
 
 1. **Install VS Code**  
    - [Download Visual Studio Code](https://code.visualstudio.com/download) (available for Windows, macOS, and Linux).  
@@ -105,7 +105,7 @@ The following steps guide you through setting up a local environment to run the 
 
 ---
 
-### 4.3. Google Colab: Cloud-based environment for Jupyter Notebooks
+### 4.3. Google Colab: Cloud-based Environment for Jupyter Notebooks
 
 If you prefer a **cloud-based** environment (no local installs):
 
