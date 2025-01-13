@@ -7,7 +7,7 @@ For students enrolled in the course, please access additional resources (such as
 ## Author
 
 **Junichi Koganemaru** ([@jkoganem](https://github.com/jkoganem))  
-Email: [jkoganem@andrew.cmu.edu](jkoganem@andrew.cmu.edu)  
+Email: [jkoganem@andrew.cmu.edu](mailto:jkoganem@andrew.cmu.edu)  
 
 > **Note for students:** please include the header “21-260” in the subject line of your email when you email me, otherwise your email might get lost in the shuffle.
 
@@ -168,8 +168,8 @@ This repository uses **two different licenses**:
 
 ## 6. Contact
 
-- **Instructor**: Junichi Koganemaru (jkoganem@andrew.cmu.edu)
-- **Teaching Assistants**: Emma Kim (egkim@andrew.cmu.edu), Aniruddh Vasishta (avasisht@andrew.cmu.edu), Sharon Xue (slxue@andrew.cmu.edu)
+- **Instructor**: Junichi Koganemaru (mailto:jkoganem@andrew.cmu.edu)
+- **Teaching Assistants**: Emma Kim (mailto:egkim@andrew.cmu.edu), Aniruddh Vasishta (mailto:avasisht@andrew.cmu.edu), Sharon Xue (mailto:slxue@andrew.cmu.edu)
 - For issues or questions related to the repository, please open a [GitHub issue](../../issues) or email the instructor.
 
 ---
